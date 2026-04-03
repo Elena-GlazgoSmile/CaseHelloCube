@@ -3,24 +3,25 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BlueSphere
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Start
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - BlueSphere
+  - RedSphere
+  - OrangeSphere
+  - BluePlatform
+  - RedPlatform
+  - OrangePlatform
+  - Finish
+  - BluePlatformTransparent
+  - RedSphereTransparent
+  - VisibleWayOnCamera
   - 
   - 
   - 
